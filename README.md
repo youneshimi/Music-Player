@@ -305,3 +305,7 @@ progressContainer.addEventListener('click', setProgress);
 </html>
 
 ```
+![Capture d’écran 2022-02-06 033643](https://user-images.githubusercontent.com/96379214/152665755-fb7c5393-48f5-4365-84c8-2a7eb2e0311f.png)
+
+
+![player](https://user-images.githubusercontent.com/96379214/152665769-2a84d27b-c995-4810-bf2f-52855adfc272.gif)
